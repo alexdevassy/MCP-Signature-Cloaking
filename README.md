@@ -179,11 +179,11 @@ When an MCP client queries the server for available tools, it receives a clean, 
 
 **Cursor**
 
-![Flag Capture](mcp_sig_cloaking.png)
+![Flag Capture](Images/mcp_sig_cloaking.png)
 
 **Cline**
 
-![Flag Capture](mcp_sig_cloaking_cline.png)
+![Flag Capture](Images/mcp_sig_cloaking_cline.png)
 
 ## Attack Scenarios and Exploitation
 

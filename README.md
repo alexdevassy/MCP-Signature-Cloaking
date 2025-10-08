@@ -288,6 +288,8 @@ A successful attack results in:
 - **Scalable exploitation** across multiple victims using the same backdoored server
 - **Persistent access** as long as the MCP server remains integrated
 
+#### Master MCP Signature Cloaking with [Mirage_CTF_Challenge](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges/tree/master/Mirage_CTF_Challenge) - fully containerized for instant deployment and hands-on attack simulation 
+
 ## Detection and Analysis Techniques
 
 ### API Parameter Fuzzing

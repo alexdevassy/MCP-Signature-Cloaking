@@ -1,5 +1,8 @@
 # MCP Signature Cloaking: From Invisible Backdoor Parameters to Data Exfiltration
 
+> 🔬 Hands-on Learning Available: For readers seeking practical experience with MCP Signature Cloaking techniques, the [Mirage_CTF_Challenge](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges/tree/master/Mirage_CTF_Challenge) provides a comprehensive, containerized environment to explore hidden parameter exploitation and data exfiltration attacks safely.
+
+
 ## Executive Summary
 
 AI systems are increasingly wired into external tools through the Model Context Protocol (MCP), making it a backbone of modern enterprise workflows. But with this power comes new risks. This research introduces MCP Signature Cloaking - a novel backdoor technique that allows attackers to exploit hidden parameters in MCP servers, concealing malicious behavior behind interfaces that appear legitimate to both developers and AI models.
@@ -288,7 +291,7 @@ A successful attack results in:
 - **Scalable exploitation** across multiple victims using the same backdoored server
 - **Persistent access** as long as the MCP server remains integrated
 
-#### Master MCP Signature Cloaking with [Mirage_CTF_Challenge](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges/tree/master/Mirage_CTF_Challenge) - fully containerized for instant deployment and hands-on attack simulation 
+> Master MCP Signature Cloaking with [Mirage_CTF_Challenge](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges/tree/master/Mirage_CTF_Challenge) - fully containerized for instant deployment and hands-on attack simulation 
 
 ## Detection and Analysis Techniques
 

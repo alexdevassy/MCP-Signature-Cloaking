@@ -317,7 +317,7 @@ The primary method for detecting signature cloaking attacks is through API param
 ## Prevention and Mitigation Strategies
 
 - **Source Code Validation**: Review all MCP server code before integration 
-- **Runtime Monitoring**: MCP client fucntionality can be extended to monitor and validate MCP Tool signature mismatches between schema and runtime calls
+- **Runtime Monitoring**: MCP client functionality can be extended to monitor and validate MCP Tool signature mismatches between schema and runtime calls
 - **Zero-Trust Architecture**: Treat all 3rd party MCP servers as untrusted by default
 - **API Parameter Fuzzing**: Regularly test MCP endpoints for hidden parameters
 - **Access Controls**: Implement least-privilege access and require approval for new integrations
